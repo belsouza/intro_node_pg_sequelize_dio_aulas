@@ -11,4 +11,10 @@ async function dropTables(){
   console.log("Tabelas removidas");
 }
 
-dropTables()
+try{
+  dropTables()
+}
+catch(err){
+  console.log("Erro:" + err);
+}
+
