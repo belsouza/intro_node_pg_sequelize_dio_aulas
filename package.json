@@ -1,0 +1,30 @@
+{
+  "name": "intro_node_pg_sequelize_dio_aulas",
+  "version": "1.0.0",
+  "description": "\"Aula integração node, sequelize e postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belsouza/intro_node_pg_sequelize_dio_aulas.git"
+  },
+  "keywords": [
+    "aula",
+    "postgres",
+    "squelize",
+    "node"
+  ],
+  "author": "\"Destructor e gmeneguz\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belsouza/intro_node_pg_sequelize_dio_aulas/issues"
+  },
+  "homepage": "https://github.com/belsouza/intro_node_pg_sequelize_dio_aulas#readme",
+  "dependencies": {
+    "pg": "^7.18.2",
+    "sequelize": "^6.3.4"
+  },
+  "devDependencies": {}
+}
