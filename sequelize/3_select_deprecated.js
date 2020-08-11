@@ -5,8 +5,6 @@ async function select(){
   
   //Eventos
   const eventos = await models.evento.findAll()
-
-
   eventos.forEach((evento) => {
     console.log("Evento: ", evento.nome)
   })

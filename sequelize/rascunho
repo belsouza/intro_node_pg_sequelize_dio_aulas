@@ -1,0 +1,11 @@
+node sequelize/1_create.js
+
+node sequelize/2_insert.js
+
+node sequelize/3_select.js
+
+node sequelize/4_select_advanced.js
+
+node sequelize/5_update.js
+
+node sequelize/6_erase.js
